@@ -1,1 +1,1 @@
-var posts=["2022/07/02/learnMarkdown/","2022/07/02/phpNote/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/07/01/learnMarkdown/","2022/07/02/phpNote/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
